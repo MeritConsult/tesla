@@ -7,7 +7,7 @@ print("chioma")
 print("bukola")
 print("chidi")
 print("kingsley")
-
+# bugs remove
 
 
 
